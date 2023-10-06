@@ -22,3 +22,9 @@
 
 Контест по условиями: <a href="https://contest.yandex.ru/contest/53156/problems/">https://contest.yandex.ru/contest/53156/problems</a>.<br>
 Контест по циклу `for`: <a href="https://contest.yandex.ru/contest/53157/problems/">https://contest.yandex.ru/contest/53157/problems</a>.<br>
+
+## Занятие 3. Цикл `while` и списки
+<br>
+
+Контест по `while`: <a href="https://contest.yandex.ru/contest/53463/standings">https://contest.yandex.ru/contest/53463/standings</a>.<br>
+Контест по основам работы со списками: <a href="https://contest.yandex.ru/contest/53792/standings/">https://contest.yandex.ru/contest/53792/standings/</a>.<br>
