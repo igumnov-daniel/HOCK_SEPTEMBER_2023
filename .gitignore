@@ -1,2 +1,4 @@
 *.ipynb_checkpoints
 *answers
+17_catboost/lr*
+*catboost_info
